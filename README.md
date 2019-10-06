@@ -16,4 +16,4 @@ For information on contributing, see the [Contribution Guidelines](CONTRIBUTING.
 
 # Code of Conduct
 
-For code of conduct information, see the [TNT Coders Code of Conduct](CODE_OF_CONDUCT.md).
+For code of conduct information, see the [Code of Conduct](CODE_OF_CONDUCT.md).

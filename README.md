@@ -1,5 +1,19 @@
 # TNT Coders
 
-TNT Coders is a team of developers promoting high quality open source solutions.
+Welcome to TNT Coders!
 
-This repository serves as a central location for contributing guidelines and code of conduct information.
+TNT Coders is a group dedicated to creating high quality open source solutions.
+
+# Website
+
+<http://tnt-coders.github.io>
+
+Note that the website is still a work in progress.
+
+# Contributing
+
+For information on contributing, see the [Contribution Guidelines](CONTRIBUTING.md).
+
+# Code of Conduct
+
+For code of conduct information, see the [TNT Coders Code of Conduct](CODE_OF_CONDUCT.md).
